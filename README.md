@@ -12,7 +12,7 @@ Screenshot
 ----------
 
 > **Note that the color scheme should be [set to "IntelliJ Light"](#configure-editor-background-color) in order to have
-> the same visual as appeared in pictures below
+> the same visual as appeared in pictures below**
 
 ![](https://repository-images.githubusercontent.com/503174206/9de6b167-80d5-436a-8091-7eb05ac53b8e)
 
