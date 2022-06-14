@@ -1,24 +1,24 @@
 {
-  "name": "Ubuntu Theme",
-  "dark": true,
-  "author": "Victor Kropp",
+  "name": "Ubuntu Theme (Light)",
+  "dark": false,
+  "author": "Jiaqi Liu",
   "editorScheme": "/Ubuntu_Theme.xml",
   "ui": {
     "*": {
-      "background": "#2b2929",
-      "foreground": "#ffffff",
+      "background": "#ffffff",
+      "foreground": "#2b2929",
       "selectionBackground": "#e95420",
       "selectionForeground": "#fdfdfd"
     },
     "Panel": {
-      "background": "#2b2929",
-      "foreground": "#ffffff"
+      "background": "#ffffff",
+      "foreground": "#2b2929"
     },
-    "StatusBar.borderColor": "#2b2929",
+    "StatusBar.borderColor": "#ffffff",
     "ToolWindow": {
       "Header": {
-        "background": "#2b2929",
-        "inactiveBackground": "#2b2929",
+        "background": "#ffffff",
+        "inactiveBackground": "#ffffff",
         "borderColor":"#343333"
       }
     },
@@ -38,9 +38,10 @@
         "focusColor": "#ffffff00",
         "foreground": "#ffffff"
       },
-      "startBackground": "#524e4e",
-      "endBackground": "#524e4e",
-      "focusedBorderColor": "#524e4e"
+      "foreground": "#ffffff",
+      "startBackground": "#77216F",
+      "endBackground": "#77216F",
+      "focusedBorderColor": "#77216F"
     },
 
     "FileColor": {

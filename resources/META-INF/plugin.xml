@@ -1,8 +1,8 @@
 <idea-plugin>
-  <id>com.github.kropp.intellij.theme.ubuntu</id>
-  <name>Ubuntu Theme</name>
-  <version>0.1</version>
-  <vendor email="victor.kropp@gmail.com" url="https://victor.kropp.name/">Victor Kropp</vendor>
+  <id>com.github.qubitpi.intellij.theme.ubuntu</id>
+  <name>Ubuntu Theme (Light)</name>
+  <version>1.0</version>
+  <vendor email="jack20220723@gmail.com" url="https://www.youtube.com/channel/UCftjbMLuz4ohH5v-hpZbt5w">Jiaqi Liu</vendor>
 
   <description><![CDATA[
         IntelliJ Theme in Ubuntu Yaru colors.
